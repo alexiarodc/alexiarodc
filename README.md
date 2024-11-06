@@ -2,7 +2,7 @@
 
 
 - 📔 I'm currently studying on analysis and systems development
-- 📝 I’m currently learning Java, JS, database
+- 📝 I’m currently learning Java, JS, HTML and CSS.
 
   
   ##
