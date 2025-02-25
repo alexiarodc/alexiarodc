@@ -1,12 +1,17 @@
 👋 Hi, eu sou a Alexia!
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 💻 Desenvolvedora apaixonada por PHP, HTML, CSS e JavaScript
+
 🚀 Destemida, curiosa e sempre em busca de aprender mais sobre tecnologia!
 
 🚀 Sobre mim
+
 Sou uma entusiasta da programação e amo desafios! Atualmente, estou focada em aprimorar minhas habilidades em PHP e explorar novas tecnologias para construir aplicações robustas e dinâmicas.
 
 💡 O que estou estudando?
+
 Desenvolvimento web com PHP e Laravel
 Banco de Dados (SQLite, MySQL)
 Frontend interativo com JavaScript
