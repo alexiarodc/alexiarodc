@@ -6,9 +6,8 @@
 
 🚀 Destemida, curiosa e sempre em busca de aprender mais sobre tecnologia!
 
-🚀 Sobre mim
-
-Sou uma entusiasta da programação e amo desafios! Atualmente, estou focada em aprimorar minhas habilidades em PHP e explorar novas tecnologias para construir aplicações robustas e dinâmicas.
+🚀 Sobre mim:
+ Sou uma entusiasta da programação e amo desafios! Atualmente, estou focada em aprimorar minhas habilidades em PHP e explorar novas tecnologias para construir aplicações robustas e dinâmicas.
 
 💡 O que estou estudando?
 
