@@ -2,8 +2,6 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Desenvolvedora apaixonada por PHP, HTML, CSS e JavaScript
-
 🚀 Destemida, curiosa e sempre em busca de aprender mais sobre tecnologia!
 
 🚀 Sobre mim:
